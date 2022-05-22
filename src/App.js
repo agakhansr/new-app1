@@ -1,6 +1,5 @@
 import React from 'react';
 import { makeStyles } from '@mui/material/styles';
-import { CssBaseline } from '@mui/material';
 
 const useStyles = makeStyles((theme) => ({
   root: {
