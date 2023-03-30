@@ -13,7 +13,6 @@ export default function App() {
   const classes = useStyles();
   return ( 
   <div className={classes.root}>
-  {/* hele bir dayan gorek amk */}
   </div>
   )
 }
