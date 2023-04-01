@@ -1,5 +1,5 @@
-import React from 'react';
-import { makeStyles } from '@mui/material/styles';
+import React from "react";
+import { makeStyles } from "@mui/material/styles";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -7,14 +7,14 @@ const useStyles = makeStyles((theme) => ({
     backgroundImage: `url(${process.env.PUBLIC_URL + "/assets/bg.jpg"})`,
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
-},
+  },
 }));
 export default function App() {
   const classes = useStyles();
-  return ( 
-  <div className={classes.root}>
-  <p>this is testing purpose</p>
-  </div>
-  )
+  return (
+    <div className={classes.root}>
+      <p>this is testing purpose</p>
+    </div>
+  );
 }
 //salamsalmsa
