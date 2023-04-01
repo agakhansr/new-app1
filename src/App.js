@@ -3,7 +3,7 @@ import { makeStyles } from "@mui/material/styles";
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    height: "80vh",
+    height: '50vh',
     backgroundImage: `url(${process.env.PUBLIC_URL + "/assets/bg.jpg"})`,
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
