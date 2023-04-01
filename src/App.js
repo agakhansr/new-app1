@@ -17,9 +17,4 @@ export default function App() {
   </div>
   )
 }
-
-
-
-// adding dummy console 
-
-console.log('salam')
+//salamsalmsa
