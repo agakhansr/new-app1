@@ -19,3 +19,7 @@ export default function App() {
 }
 
 
+
+// adding dummy console 
+
+console.log('salam')
