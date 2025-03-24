@@ -3,9 +3,7 @@ import React from "react";
 export default function App() {
   return (
     <div>
-      <p>this is testing purpose</p>
+      <p>testing is done</p>
     </div>
   );
 }
-//salamsalmsa[]\
-//asklasklsak
